@@ -1,0 +1,31 @@
+{
+    "name": "extra-icons-material",
+    "version": "0.0.1",
+    "description": "Custom Material Design icons as SvgIcon components for MUI and React.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joaopalmeiro/extra-icons-material.git"
+    },
+    "keywords": [
+        "react",
+        "mui",
+        "material-ui",
+        "material design",
+        "icons"
+    ],
+    "author": {
+        "name": "João Palmeiro",
+        "email": "jm.palmeiro@campus.fct.unl.pt",
+        "url": "https://joaopalmeiro.github.io/"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/joaopalmeiro/extra-icons-material/issues"
+    },
+    "homepage": "https://github.com/joaopalmeiro/extra-icons-material#readme",
+    "devDependencies": {
+        "@joaopalmeiro/prettier-config": "^0.1.1",
+        "prettier": "^2.5.1"
+    },
+    "prettier": "@joaopalmeiro/prettier-config"
+}
