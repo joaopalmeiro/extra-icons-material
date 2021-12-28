@@ -16,3 +16,4 @@ Custom Material Design icons as `<SvgIcon />` components for MUI and React.
 - [Material Design](https://github.com/Templarian/MaterialDesign) repo.
 - [Fill Rule Editor](https://www.figma.com/community/plugin/771155994770327940/Fill-Rule-Editor) plugin.
 - [`createSvgIcon`](https://github.com/mui-org/material-ui/blob/v5.2.6/packages/mui-material/src/utils/createSvgIcon.js).
+- [Automating svg to jsx conversion with svgr](https://phelipetls.github.io/posts/automating-svg-to-jsx-conversion-with-svgr/) blog post by Phelipe Teles.
