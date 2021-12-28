@@ -27,6 +27,7 @@
     "devDependencies": {
         "@joaopalmeiro/prettier-config": "^0.1.1",
         "@svgr/cli": "^6.1.2",
+        "npm-run-all": "^4.1.5",
         "prettier": "^2.5.1"
     },
     "prettier": "@joaopalmeiro/prettier-config",
@@ -43,6 +44,7 @@
         "npm": "^8.0.0"
     },
     "scripts": {
+        "build": "npm-run-all build:icons",
         "build:icons": "svgr svg"
     }
 }
