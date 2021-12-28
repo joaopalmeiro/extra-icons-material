@@ -9,7 +9,7 @@ Custom Material Design icons as `<SvgIcon />` components for MUI and React.
 - [Material icons](https://fonts.google.com/icons).
 - [mdi-material-ui](https://github.com/TeamWertarbyte/mdi-material-ui) package.
 - [SvgIcon](https://mui.com/components/icons/#svgicon) documentation.
-- [@mui/icons-material](https://mui.com/components/material-icons/) package.
+- [@mui/icons-material](https://mui.com/components/material-icons/) package ([SVGs](https://github.com/mui-org/material-ui/tree/v5.2.6/packages/mui-icons-material/material-icons)).
 - [MUI](https://github.com/mui-org/material-ui) package.
 - [Figma Material icon library](https://www.figma.com/community/file/1014241558898418245).
 - [System icons](https://material.io/design/iconography/system-icons.html) documentation.

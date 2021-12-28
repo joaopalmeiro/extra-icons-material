@@ -12,12 +12,13 @@
 - [react-icons](https://react-icons.github.io/react-icons/) package.
 - [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram).
 - [`lockfileVersion`](https://docs.npmjs.com/cli/v8/configuring-npm/package-lock-json#lockfileversion) documentation.
-- Peer Dependencies:
+- Peer dependencies:
   - [`peerdependenciesmeta`](https://docs.npmjs.com/cli/v8/configuring-npm/package-json#peerdependenciesmeta) documentation.
   - [@material-ui/icons](https://github.com/mui-org/material-ui/blob/v4.12.3/packages/material-ui-icons/package.json#L40) (v4).
-  - [@mui/icons-material](https://github.com/mui-org/material-ui/tree/v5.2.6/packages/mui-icons-material) (v5).
+  - [@mui/icons-material](https://github.com/mui-org/material-ui/blob/v5.2.6/packages/mui-icons-material/package.json#L48) (v5).
   - [@mui/material](https://github.com/mui-org/material-ui/blob/v5.2.6/packages/mui-material/package.json#L44) (v5).
   - [mdi-material-ui](https://github.com/TeamWertarbyte/mdi-material-ui/blob/v7.1.0/package.json#L48).
+  - `npm install --save-peer @mui/material@5.0.0 react`.
 - MUI:
   - v4: `npm install @material-ui/core` ([source](https://v4.mui.com/getting-started/installation/#npm)).
   - v5: `npm install @mui/material @emotion/react @emotion/styled` ([source](https://mui.com/getting-started/installation/#npm)).
