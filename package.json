@@ -36,5 +36,9 @@
     "peerDependencies": {
         "@mui/material": "^5.0.0",
         "react": "^17.0.2"
+    },
+    "engines": {
+        "node": "^16.0.0",
+        "npm": "^8.0.0"
     }
 }
