@@ -8,6 +8,7 @@
     },
     "keywords": [
         "react",
+        "react-component",
         "mui",
         "material-ui",
         "material design",
@@ -31,5 +32,9 @@
     "volta": {
         "node": "16.13.1",
         "npm": "8.1.2"
+    },
+    "peerDependencies": {
+        "@mui/material": "^5.0.0",
+        "react": "^17.0.2"
     }
 }
